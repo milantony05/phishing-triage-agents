@@ -2,6 +2,8 @@
 
 A Google Colab student project combining a TF-IDF + Logistic Regression text classifier with four specialist agents: email analysis, threat detection, evidence explanation, and security recommendations. An optional CrewAI + Gemini section demonstrates LLM-powered sequential collaboration when an API key is configured.
 
+<img width="1895" height="935" alt="demo" src="https://github.com/user-attachments/assets/c0ec417a-c3c3-4927-928a-6d73113b736f" />
+
 ## Files
 - `Agentic_AI_Phishing_Email_Detection.ipynb` — main project notebook.
 
